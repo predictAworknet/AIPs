@@ -4,13 +4,9 @@ AIPs are formal proposals for changes and improvements to the AWP protocol, subn
 
 Inspired by [Ethereum's EIP process](https://eips.ethereum.org/).
 
-## Active Proposals
+## Browse Proposals
 
-| Number | Title | Type | Status |
-|--------|-------|------|--------|
-| [AIP-001](AIPS/aip-001.md) | Launch Benchmark Subnet | Subnet | Final |
-| [AIP-002](AIPS/aip-002.md) | Exponential Decay Emission Schedule | Protocol | Final |
-| [AIP-003](AIPS/aip-003.md) | Fact Verification Subnet Specification | Subnet | Review |
+All proposals are listed in the [`AIPS/`](AIPS/) directory, or browse the auto-generated index at [awp.pro/aip](https://awp.pro/aip).
 
 ## Submit a Proposal
 
