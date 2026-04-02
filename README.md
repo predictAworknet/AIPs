@@ -1,6 +1,6 @@
 # AWP Improvement Proposals (AIPs)
 
-AIPs are formal proposals for changes and improvements to the AWP protocol, subnets, and governance processes.
+AIPs are formal proposals for changes and improvements to the AWP protocol, worknets, and governance processes.
 
 Inspired by [Ethereum's EIP process](https://eips.ethereum.org/).
 
